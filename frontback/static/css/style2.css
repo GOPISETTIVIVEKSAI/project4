@@ -1,0 +1,202 @@
+.nav_section{
+    float:left;
+    width:100%;
+    background-color:black;
+    text-transform:uppercase;
+    text-align: center;
+    margin:0% 0% 0% 0%;
+}
+li{
+    display:inline-block;
+    padding:0% 0% 0% 5%;
+    color:white;
+}
+.main{
+    float:left;
+    width:100%;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("../IMAGES/intro-bg.jpg");
+    background-size: 100% 100%;
+    font-size:70px;
+}
+.main1 h1{
+    float:left;
+    width:100%;
+    color:white;
+    font-family: "Rochester", cursive;
+    font-size: 120px;
+    font-weight: 400;
+    padding:10% 0% 10% 0%;
+    margin:0% 0% 1% 0%;
+}
+h4{
+    font-family: "open sans",sans-serif;
+    font-weight: 400;
+    color:white;
+    text-align: center;
+    font-size:24px;
+    padding:0% 0% 3% 0%;
+}
+.special-section{
+    text-align: center;
+    display:flex;
+    margin:5% 0% 0% 0%;
+}
+.special-section h4{
+    color:black;
+    text-align: center;
+}
+.special{
+    font-size: 140px;
+    font-family: 'Rochester',cursive;
+    text-transform: capitalize;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 400;
+    margin:3% 0% 0% 0%;
+}
+.story {
+    float:left;
+    width:100%;
+    padding:5% 0% 5% 0%;
+}
+.story-left{
+    float:left;
+    width:50%;
+}
+.story-left img{
+    float:left;
+    width:100%;
+}
+.story-right{
+    float:right;
+    width:50%;
+}
+.story-right h2{
+    text-align: center;
+    font-family: 'open sans', sans-serif;
+    font-size: 38px;
+    font-weight: 400;
+}
+.story-right p{
+    text-align: start;
+    padding:0% 15% 0% 15%;
+    font-family: 'open sans', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.menuhead h2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 38px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.images{
+    float:left;
+    width:100%;
+    margin:5% 0% 5% 0%;
+}
+.images img{
+    float:left;
+    width:25%;
+}
+.chef{
+    float:left;
+    width:80%;
+    padding-bottom: 6em;
+    margin: 0% 10% 0% 10%;
+}
+.chef-left{
+    float: left;
+    width: 45%;
+}
+.chef-left h2{
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-left: 10%;
+    padding-bottom: 0.8em;
+    font-family: 'Raleway', sans-serif;
+    font-size: 38px;
+    font-weight: 400;
+}
+.chef-left p{
+    text-align: start;
+    margin: 0% 20% 0% 10%;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: grey;
+}
+.chef-right{
+    float:right;
+    width:50%;
+}
+.footer{
+    float:left;
+    display:flex;
+    text-align: center;
+    width:100%;
+    background-color: black;
+    color:white;
+    padding:5% 0% 5% 0%;
+    text-decoration: underline;
+}
+.footer1{
+    text-align: center;
+    margin:0% 0% 0% 10%;
+    padding:5% 0% 5% 0%;
+}
+.footer2{
+    text-align: center;
+    margin:0% 0% 0% 10%;
+    padding:5% 0% 0% 10%;
+}
+.footer3{
+    text-align: center;
+    margin:0% 0% 0% 10%;
+    padding:5% 0% 0% 10%;
+}
+.message{
+    float:left;
+    width:100%;
+    background-color:black;
+}
+.message h3{
+    color:white;
+    text-align: center;
+    background-color:black;
+    text-decoration: underline;
+}
+.in{
+    float:left;
+    width:100%;
+    text-align: center;
+    background-color:RGBA(255, 255, 255, 0.2);
+}
+input{
+    float: left;
+    width:50%;
+    display:flex;
+    text-align: center;
+    padding: ;
+    background-color:grey;
+    font-size: 16px;
+    font-family: "open sans",san serif;
+    font-weight: 400;
+}
+.copyright{
+    float:left;
+    width: 100%;
+    font-weight: 400;
+    font-family: serif;
+    text-align: center;
+    background-color:black;
+}
+.copyright p{
+    font-weight: 400;
+    font-family: serif;
+    padding: 2% 0% 0% 0%;
+    background-color:black;
+    color:white;
+}
